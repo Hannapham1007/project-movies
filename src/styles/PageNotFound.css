@@ -1,0 +1,21 @@
+.page-not-found-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--darkBackground);
+    height: 100vh;
+}
+.center{
+    text-align: center;
+}
+.btn{
+    background-color: var(--white);
+    border: none;
+    padding: 10px 24px;
+    border-radius: 20px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.page-not-found-title{
+    color: var(--white);
+}
